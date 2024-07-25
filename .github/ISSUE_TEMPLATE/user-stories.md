@@ -1,6 +1,6 @@
 ---
-name: Stakeholders requirements list
-about: Tempelate is for creatings stakeholders requirement list
+name: User stories
+about: Tempelate is for creatings user stories
 title: ''
 labels: ''
 assignees: ''
